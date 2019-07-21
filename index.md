@@ -2,8 +2,6 @@
 layout: default
 ---
 
-**TKL Software LLC**
+# **TKL Software LLC**
 
-# Header 1
-
-> Software licensing, website under construction
+Software licensing, website under construction
